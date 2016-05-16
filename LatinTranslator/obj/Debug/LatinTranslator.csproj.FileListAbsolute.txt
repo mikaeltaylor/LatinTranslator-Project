@@ -1,0 +1,18 @@
+c:\users\mikae\documents\visual studio 2012\Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe.config
+c:\users\mikae\documents\visual studio 2012\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csprojResolveAssemblyReference.cache
+c:\users\mikae\documents\visual studio 2012\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.Form1.resources
+c:\users\mikae\documents\visual studio 2012\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.Properties.Resources.resources
+c:\users\mikae\documents\visual studio 2012\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csproj.GenerateResource.Cache
+c:\users\mikae\documents\visual studio 2012\Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe
+c:\users\mikae\documents\visual studio 2012\Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.pdb
+c:\users\mikae\documents\visual studio 2012\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.exe
+c:\users\mikae\documents\visual studio 2012\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.pdb
+C:\Users\mikae\Desktop\CentralCC\C#\LatinTranslator\bin\Debug\LatinTranslator.exe.config
+C:\Users\mikae\Desktop\CentralCC\C#\LatinTranslator\obj\Debug\LatinTranslator.exe
+C:\Users\mikae\Desktop\CentralCC\C#\LatinTranslator\obj\Debug\LatinTranslator.pdb
+C:\Users\mikae\Desktop\CentralCC\C#\LatinTranslator\bin\Debug\LatinTranslator.exe
+C:\Users\mikae\Desktop\CentralCC\C#\LatinTranslator\bin\Debug\LatinTranslator.pdb
+C:\Users\mikae\Desktop\CentralCC\C#\LatinTranslator\obj\Debug\LatinTranslator.csprojResolveAssemblyReference.cache
+C:\Users\mikae\Desktop\CentralCC\C#\LatinTranslator\obj\Debug\LatinTranslator.Form1.resources
+C:\Users\mikae\Desktop\CentralCC\C#\LatinTranslator\obj\Debug\LatinTranslator.Properties.Resources.resources
+C:\Users\mikae\Desktop\CentralCC\C#\LatinTranslator\obj\Debug\LatinTranslator.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+if no button has been pressed set the label to 'press a button'
+
+if sinister button is pressed set the label to 'left'
+
+if dexter button is pressed set the label to 'right'
+
+if medium button is pressed set the label to 'center'
